@@ -5,7 +5,6 @@ import json
 import openai
 import os
 
-# TODO: Build README page
 # TODO: Support other LLMs besides chatGPT
 # TODO: Test with colab
 # TODO: Add some unit tests
